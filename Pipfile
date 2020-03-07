@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 flask = "*"
+pandas = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
