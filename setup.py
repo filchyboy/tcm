@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="themecampmanager",
-    version="0.1.1",
+    version="0.1.2",
     author="Chris Filkins",
     author_email="christopher.filkins@gmail.com",
     description="Camp Manager Project for Theme Camps at Burning Man",
