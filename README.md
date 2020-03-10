@@ -1,2 +1,4 @@
 # theme-camp
-Theme camp Manager
+Theme Camp Manager
+
+Functions & classes for the theme camp manager system.
