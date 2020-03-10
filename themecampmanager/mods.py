@@ -9,3 +9,6 @@ def return_hash():
 
 def output_hash(hash_id):
     print(hash_id)
+
+def check_hash(hash_id):
+    pass
